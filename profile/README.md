@@ -10,7 +10,4 @@ GitGet
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<p align="center">
-<img src="https://github.com/TeamTheGenius/TeamTheGenius_Web/assets/52223965/00f01403-64ea-48fd-81c0-782c1383d1af" width="1000" />
-</p>
-
+![image](https://github.com/TeamTheGenius/TeamTheGenius_Server/assets/95005061/d32627b9-a8fd-4a7b-9a90-da8924ac7ec8)
