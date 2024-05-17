@@ -11,6 +11,6 @@ GitGet
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <p align="center">
-<img src="https://github.com/TeamTheGenius/TeamTheGenius_Web/assets/52223965/00f01403-64ea-48fd-81c0-782c1383d1af" width="500" />
+<img src="https://github.com/TeamTheGenius/TeamTheGenius_Web/assets/52223965/00f01403-64ea-48fd-81c0-782c1383d1af" width="1000" />
 </p>
 
